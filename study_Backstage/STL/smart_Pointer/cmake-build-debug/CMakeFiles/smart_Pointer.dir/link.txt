@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/smart_Pointer.dir/main.cpp.o  -o smart_Pointer 

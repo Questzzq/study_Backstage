@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/teat_map.dir/main.cpp.o  -o teat_map 
